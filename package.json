@@ -1,0 +1,17 @@
+{
+  "name": "RTO",
+  "version": "1.0.0",
+  "description": "\"RTO filter app\"",
+  "main": "main.js",
+  "author": "\"Devarshi Patel\"",
+  "license": "MIT",
+  "repository": "https://github.com/Devarshi-patel/rto-filter-app",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.2",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-reloader": "^1.2.3"
+  }
+}
